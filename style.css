@@ -4,16 +4,18 @@ body {
 
 .cabecario {
     font-family: 'Poppins', sans-serif;
-    font-weight: 400;
+    font-weight: 700;
     list-style-type: none;
     background-color: whitesmoke;
-    text-align: center;
     display: block;
 }
 
 .c1 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
+
 }
 
 .c1:hover {
@@ -23,6 +25,8 @@ body {
 .c2 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
 }
 
 .c2:hover {
@@ -32,6 +36,8 @@ body {
 .c3 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
 }
 
 .c3:hover {
@@ -41,6 +47,8 @@ body {
 .c4 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
 }
 
 .c4:hover {
@@ -50,6 +58,8 @@ body {
 .c5 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
 }
 
 .c5:hover {
@@ -59,6 +69,8 @@ body {
 .c6 {
     float: left;
     margin: 20px;
+    color: black;
+    text-decoration: none;
 }
 
 .c6:hover {
@@ -85,6 +97,13 @@ body {
     margin-right: 10vw;
 }
 
+.paragrafof {
+    font-family: 'Raleway', sans-serif;
+    margin: 20px;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+
 .nomealbum {
     font-family: 'Raleway', sans-serif;
     margin: 10px;
@@ -101,14 +120,54 @@ body {
     padding: 10px;
     margin: 10px;
     font-size: 1em;
+    color: black;
+    text-decoration: none
 }
 
 .albuns:hover {
     background-color: whitesmoke;
+    color: #BC9077
 }
 
 .youtube {
     width:424;
     height: 238;
     margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.poster {
+    width: auto;
+    height: 200px;
+    margin-bottom: 20px;
+    border: solid;
+    border-color: #BC9077;
+}
+
+.poster:hover {
+    border-color: whitesmoke;
+}
+
+.posterh {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+    border: solid;
+    border-color: #BC9077;
+}
+
+.posterh:hover {
+    border-color: whitesmoke;
+}
+
+.icone {
+    margin: 20px;
+    color: #BC9077;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.icone:hover {
+    color: black;
 }
