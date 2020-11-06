@@ -4,6 +4,7 @@ body {
 
 .cabecario {
     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
     list-style-type: none;
     background-color: whitesmoke;
     text-align: center;
@@ -15,9 +16,17 @@ body {
     margin: 20px;
 }
 
+.c1:hover {
+    color: #BC9077;
+}
+
 .c2 {
     float: left;
     margin: 20px;
+}
+
+.c2:hover {
+    color: #BC9077;
 }
 
 .c3 {
@@ -25,9 +34,17 @@ body {
     margin: 20px;
 }
 
+.c3:hover {
+    color: #BC9077;
+}
+
 .c4 {
     float: left;
     margin: 20px;
+}
+
+.c4:hover {
+    color: #BC9077;
 }
 
 .c5 {
@@ -35,13 +52,63 @@ body {
     margin: 20px;
 }
 
+.c5:hover {
+    color: #BC9077;
+}
+
 .c6 {
     float: left;
     margin: 20px;
 }
 
+.c6:hover {
+    color: #BC9077;
+}
 
 .titulo {
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    margin: 20px;
+    font-weight: 700;
+}
+
+.ouca {
+    border-top: solid;
+    border-width: thin;
+    border-color: #BC9077;
+}
+
+.paragrafo {
+    font-family: 'Raleway', sans-serif;
+    margin: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.nomealbum {
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+}
+
+.imgs2 {
+    width: 200px;
+}
+
+.albuns {
+    display: inline-block;
+    border: none;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+}
+
+.albuns:hover {
+    background-color: whitesmoke;
+}
+
+.youtube {
+    width:424;
+    height: 238;
+    margin-bottom: 20px;
 }
