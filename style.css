@@ -1,1 +1,47 @@
-style.css
+body {
+    text-align: center;
+}
+
+.cabecario {
+    font-family: 'Poppins', sans-serif;
+    list-style-type: none;
+    background-color: whitesmoke;
+    text-align: center;
+    display: block;
+}
+
+.c1 {
+    float: left;
+    margin: 20px;
+}
+
+.c2 {
+    float: left;
+    margin: 20px;
+}
+
+.c3 {
+    float: left;
+    margin: 20px;
+}
+
+.c4 {
+    float: left;
+    margin: 20px;
+}
+
+.c5 {
+    float: left;
+    margin: 20px;
+}
+
+.c6 {
+    float: left;
+    margin: 20px;
+}
+
+
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
