@@ -8,6 +8,23 @@ body {
     list-style-type: none;
     background-color: whitesmoke;
     display: block;
+    text-align: initial;
+}
+
+.cabecario ul {
+    position: fixed;
+    display: inline-block;
+    background-color:whitesmoke;
+    width: 100vw;    
+    text-align: left;
+}
+
+.cabecario li {
+    float: left;
+}
+
+#inicio {
+    margin-top: 70px;
 }
 
 .c1 {
